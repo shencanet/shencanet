@@ -25,7 +25,7 @@ namespace MoureDEv_Reto_Semana_1_shencanet
                     Console.WriteLine("fazz");
                     Console.WriteLine(i);
 
-                }else if (i % 5 ==) entra si el resto de 5 es cero
+                }else if (i % 5 == 0) //entra si el resto de 5 es cero
                 
                 {
 
